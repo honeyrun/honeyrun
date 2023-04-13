@@ -1,6 +1,7 @@
 ## Introduction
 <br/>
-**Hello, I'm Honey from Korea🇰🇷 ** and want to be a **Frontend Web Developer🌱**
+
+&nbsp;**Hello, I'm Honey from Korea🇰🇷 ** and want to be a **Frontend Web Developer🌱**&nbsp;
 I like to learn new technologies and by learning Design & Programming in various fields. (App design and development / Game making / and motion graphics) Through experiencing various projects, I was fascinated by the process of making my own ideas into real products. With this background, my dream is to make **'user-friendly and also aesthetic web product’**
 
 </br> 
