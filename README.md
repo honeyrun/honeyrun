@@ -6,17 +6,18 @@ I like to learn new technologies and by learning Design & Programming in various
 
 <br/>
 
-Checkout my **Portfolio** here! &nbsp;👉&nbsp;&nbsp;<a href="https://honey-lee-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/></a>
-
-
-<br/><br/>
-
+Checkout **More about me & Portfolio** here! &nbsp;👇
 <div id="badges">
   <a href="https://www.linkedin.com/in/honey-lee-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://honey-lee-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
+
+<br/><br/>
+
 
 
 ## Skills
