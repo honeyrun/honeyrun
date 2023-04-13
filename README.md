@@ -24,16 +24,21 @@ Checkout **more about me & portfolio** here! &nbsp;👇
 
 #### Languages
 <div id="badges">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
-</div>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-sqaure&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-sqaure&logo=css3&logoColor=white" alt="css3 Badge"/>
+  <img src="https://img.shields.io/badge/Javascript-f0db4f?style=flat-sqaure&logo=javascript&logoColor=white" alt="Javascript Badge"/>
 
+</div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-sqaure&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-sqaure&logo=css3&logoColor=white" alt="css3 Badge"/>
+</div>
 </br>
 
 #### Tools
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-sqaure&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-FCD626?style=flat-sqaure&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
 </div>
 
 </br>
