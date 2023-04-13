@@ -21,7 +21,7 @@ Checkout **more about me & portfolio** here! &nbsp;👇
 
 ## Skills
 
-#### Languages
+#### Languages & Programming Tools
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="html5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" alt="css3 Badge"/>
@@ -44,7 +44,9 @@ Checkout **more about me & portfolio** here! &nbsp;👇
   <img src="https://img.shields.io/badge/Photoshop-8BC3FC?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop Badge"/>
   <img src="https://img.shields.io/badge/Illustrator-f8a829?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator Badge"/>
   <img src="https://img.shields.io/badge/After Effects-DB76FA?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge"/>
-
+</div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/Unity-303030?style=flat-square&logo=unity-xd&logoColor=white" alt="Unity Badge"/>
 </div>
 
 </br>
