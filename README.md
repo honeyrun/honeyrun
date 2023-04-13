@@ -22,23 +22,23 @@ Checkout **more about me & portfolio** here! &nbsp;👇
 ## Skills
 <br/>
 
-### Languages
+#### Languages
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
 </div>
-
 
 </br>
 
-### Tools
+#### Tools
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
 </div>
 
+</br>
+</br>
 
-  
 ### Most Used Languages&nbsp;🖥 
   
 <br/>
