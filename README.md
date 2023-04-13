@@ -6,7 +6,7 @@ Hello, I'm **Honey** from Korea🇰🇷  and want to be a **Frontend Web Develop
 I like to learn new technologies and by learning Design & Programming in various fields. (App design and development / Game making / and motion graphics) Through experiencing various projects, I was fascinated by the process of making my own ideas into real products. With this background, my dream is to make **'user-friendly and also aesthetic web product’**
 
 </br> 
-You can checkout my **portfolio** here!&nbsp;👉&nbsp;&nbsp; <a href="https://honey-lee-portfolio.netlify.app/">
+Checkout my **Portfolio** here!&nbsp;👉&nbsp;&nbsp; <a href="https://honey-lee-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/-portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white&style=flat-square" alt="Portfolio Badge"/></a>
 
 </br> 
@@ -39,7 +39,7 @@ You can checkout my **portfolio** here!&nbsp;👉&nbsp;&nbsp; <a href="https://h
   
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyrun&layout=compact)](https://github.com/Junbro0708)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyrun&layout=compact)](https://github.com/honeyrun)
 </div>
 
 
