@@ -7,7 +7,7 @@ I like to learn new technologies and by learning Design & Programming in various
 <br/>
 
 Checkout my **Portfolio** here! &nbsp;👉&nbsp;&nbsp; <a href="https://honey-lee-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/-portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white&style=flat-square" alt="Portfolio Badge"/></a>
+<img src="https://img.shields.io/badge/-portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/></a>
 
 
 <br/><br/>
