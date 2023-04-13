@@ -6,7 +6,7 @@ I like to learn new technologies and by learning Design & Programming in various
 
 <br/>
 
-Checkout **More about me & Portfolio** here! &nbsp;👇
+Checkout **more about me & portfolio** here! &nbsp;👇
 <div id="badges">
   <a href="https://www.linkedin.com/in/honey-lee-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,19 +19,23 @@ Checkout **More about me & Portfolio** here! &nbsp;👇
 <br/><br/>
 
 
-
 ## Skills
 <br/>
-<div>
 
 ### Languages
+<div id="badges">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/CS-50BCDF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
 </br>
 
-
 ### Tools
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
+</div>
 
 
   
@@ -40,7 +44,7 @@ Checkout **More about me & Portfolio** here! &nbsp;👇
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyrun&layout=compact)](https://github.com/honeyrun)
-</div>
+
 
 
 
