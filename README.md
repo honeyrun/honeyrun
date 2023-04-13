@@ -24,21 +24,25 @@ Checkout **more about me & portfolio** here! &nbsp;👇
 
 #### Languages
 <div id="badges">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-sqaure&logo=html5&logoColor=white" alt="html5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-sqaure&logo=css3&logoColor=white" alt="css3 Badge"/>
-  <img src="https://img.shields.io/badge/Javascript-f0db4f?style=flat-sqaure&logo=javascript&logoColor=white" alt="Javascript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" alt="css3 Badge"/>
+  <img src="https://img.shields.io/badge/Javascript-f0db4f?style=flat-square&logo=javascript&logoColor=white" alt="Javascript Badge"/>
+  <img src="https://img.shields.io/badge/Jquery-0769ad?style=flat-square&logo=jquery&logoColor=white" alt="Jquery Badge"/>
+  <img src="https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue Badge"/>
+  <img src="https://img.shields.io/badge/Angular-dd1b16?style=flat-square&logo=angular&logoColor=white" alt="Angular Badge"/>
 
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-sqaure&logo=html5&logoColor=white" alt="html5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-sqaure&logo=css3&logoColor=white" alt="css3 Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" alt="css3 Badge"/>
 </div>
 </br>
 
 #### Tools
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-sqaure&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-FCD626?style=flat-sqaure&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-FCD626?style=flat-square&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
 </div>
 
 </br>
