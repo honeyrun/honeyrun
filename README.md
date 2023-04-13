@@ -40,10 +40,10 @@ Checkout **more about me & portfolio** here! &nbsp;👇
 
 #### Other Tools
 <div id="badges">
-  <img src="https://img.shields.io/badge/AdobeXD-424242?style=flat-square&logo=adobe-xd&logoColor=white" alt="AdobeXD Badge"/>
-  <img src="https://img.shields.io/badge/Photoshop-3C327B?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop Badge"/>
+  <img src="https://img.shields.io/badge/AdobeXD-8BC3FC?style=flat-square&logo=adobe-xd&logoColor=white" alt="AdobeXD Badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-8BC3FC?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop Badge"/>
   <img src="https://img.shields.io/badge/Illustrator-f8a829?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator Badge"/>
-  <img src="https://img.shields.io/badge/After Effects-393665?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge"/>
+  <img src="https://img.shields.io/badge/After Effects-8BC3FC?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="After Effects Badge"/>
 
 </div>
 
