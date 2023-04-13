@@ -1,15 +1,14 @@
 ## Introduction
 <br/>
-
 Hello, I'm **Honey** from Korea🇰🇷 and I want to be a **Frontend Web Developer🌱** &nbsp;
 
 I like to learn new technologies and by learning Design & Programming in various fields. (App design and development / Game making / and motion graphics) Through experiencing various projects, I was fascinated by the process of making my own ideas into real products. With this background, my dream is to make **'user-friendly and also aesthetic web product’**
 
 <br/>
-Checkout my **Portfolio** here!&nbsp;👉&nbsp;&nbsp; <a href="https://honey-lee-portfolio.netlify.app/">
+
+Checkout my **Portfolio** here! &nbsp;👉&nbsp;&nbsp; <a href="https://honey-lee-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/-portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white&style=flat-square" alt="Portfolio Badge"/></a>
 
-<br/>
 
 <br/><br/>
 
