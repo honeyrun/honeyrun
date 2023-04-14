@@ -11,7 +11,7 @@ Checkout **more about me & portfolio** here! &nbsp;👇
   <a href="https://www.linkedin.com/in/honey-lee-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://honey-lee-portfolio.netlify.app/">
+  <a href="https://honeylee.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FCD626?style=for-the-badge&logo=power-pages&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
