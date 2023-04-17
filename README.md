@@ -29,7 +29,7 @@ Checkout **more about me & portfolio** here! &nbsp;👇
   <img src="https://img.shields.io/badge/Jquery-0769ad?style=flat-square&logo=jquery&logoColor=white" alt="Jquery Badge"/>
   <img src="https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue Badge"/>
-  <img src="https://img.shields.io/badge/Angular-dd1b16?style=flat-square&logo=angular&logoColor=white" alt="AngularJS Badge"/>
+  <img src="https://img.shields.io/badge/Angular JS-dd1b16?style=flat-square&logo=angular&logoColor=white" alt="Angular Badge"/>
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white" alt="PHP Badge"/>
